@@ -2,3 +2,6 @@
 
 ## Einleitung
 Dies ist der Start unseres Projektberichts.
+
+### Ausleitung
+Damit beweist Developer C (Marko), dass Kommunikation zwischen allen Teammitgliedern wichtig ist!
