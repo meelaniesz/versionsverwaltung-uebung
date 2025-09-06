@@ -1,6 +1,6 @@
 # Projektbericht - Versionsverwaltung Übung
 
-## Abschnitt A von Developer A (Melanie :-))
+## Abschnitt A von Developer A ((Melanie :-))
 Hier sind meine wichtigen Erkenntnisse für Abschnitt A.
 
 ## Abschnitt B von Developer B
