@@ -1,7 +1,7 @@
 # Projektbericht - Versionsverwaltung Übung
 
-## Einleitung
-Dies ist der Start unseres Projektberichts.
+## Abschnitt A von Developer A
+Hier sind meine wichtigen Erkenntnisse für Abschnitt A.
 
 ## Abschnitt B von Developer B
 Ich füge hier meine Erkenntnisse für Abschnitt B ein, die sich überlappen
