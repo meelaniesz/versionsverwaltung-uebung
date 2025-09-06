@@ -1,3 +1,3 @@
 # versionsverwaltung-uebung
 
-:sparkles:
+# :sparkles:
