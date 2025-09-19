@@ -2,4 +2,4 @@
 
 # :sparkles:
 
-# :santa: 102 Days 10 Hours 42 Minutes to Christmas Day! :snowflake: :christmas_tree:
+# :santa: 95 Days 06 Hours 40 Minutes to Christmas Day! :snowflake: :christmas_tree:
